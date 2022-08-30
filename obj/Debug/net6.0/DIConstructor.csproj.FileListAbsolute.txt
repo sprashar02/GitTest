@@ -1,0 +1,15 @@
+C:\Users\sprashar\source\repos\DIConstructor\bin\Debug\net6.0\DIConstructor.exe
+C:\Users\sprashar\source\repos\DIConstructor\bin\Debug\net6.0\DIConstructor.deps.json
+C:\Users\sprashar\source\repos\DIConstructor\bin\Debug\net6.0\DIConstructor.runtimeconfig.json
+C:\Users\sprashar\source\repos\DIConstructor\bin\Debug\net6.0\DIConstructor.dll
+C:\Users\sprashar\source\repos\DIConstructor\bin\Debug\net6.0\DIConstructor.pdb
+C:\Users\sprashar\source\repos\DIConstructor\obj\Debug\net6.0\DIConstructor.csproj.AssemblyReference.cache
+C:\Users\sprashar\source\repos\DIConstructor\obj\Debug\net6.0\DIConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sprashar\source\repos\DIConstructor\obj\Debug\net6.0\DIConstructor.AssemblyInfoInputs.cache
+C:\Users\sprashar\source\repos\DIConstructor\obj\Debug\net6.0\DIConstructor.AssemblyInfo.cs
+C:\Users\sprashar\source\repos\DIConstructor\obj\Debug\net6.0\DIConstructor.csproj.CoreCompileInputs.cache
+C:\Users\sprashar\source\repos\DIConstructor\obj\Debug\net6.0\DIConstructor.dll
+C:\Users\sprashar\source\repos\DIConstructor\obj\Debug\net6.0\refint\DIConstructor.dll
+C:\Users\sprashar\source\repos\DIConstructor\obj\Debug\net6.0\DIConstructor.pdb
+C:\Users\sprashar\source\repos\DIConstructor\obj\Debug\net6.0\DIConstructor.genruntimeconfig.cache
+C:\Users\sprashar\source\repos\DIConstructor\obj\Debug\net6.0\ref\DIConstructor.dll
